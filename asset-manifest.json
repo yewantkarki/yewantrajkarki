@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-portfolio-1/static/css/main.7cf646ca.css",
-    "main.js": "/react-portfolio-1/static/js/main.2573b52d.js",
-    "static/media/me.png": "/react-portfolio-1/static/media/me.7a5ee6a2c308cff7a9a8.png",
-    "static/media/me-about.jpg": "/react-portfolio-1/static/media/me-about.21f7d060b2b198bb3177.jpg",
-    "static/media/fop.pdf": "/react-portfolio-1/static/media/fop.16f4b08b506b99b7c37b.pdf",
-    "static/media/gd.pdf": "/react-portfolio-1/static/media/gd.e6666512d564355cd505.pdf",
-    "static/media/cv.pdf": "/react-portfolio-1/static/media/cv.fdcc05e084f3517eb647.pdf",
-    "index.html": "/react-portfolio-1/index.html",
-    "main.7cf646ca.css.map": "/react-portfolio-1/static/css/main.7cf646ca.css.map",
-    "main.2573b52d.js.map": "/react-portfolio-1/static/js/main.2573b52d.js.map"
+    "main.css": "/yewantrajkarki/static/css/main.7cf646ca.css",
+    "main.js": "/yewantrajkarki/static/js/main.b1a97781.js",
+    "static/media/me.png": "/yewantrajkarki/static/media/me.7a5ee6a2c308cff7a9a8.png",
+    "static/media/me-about.jpg": "/yewantrajkarki/static/media/me-about.21f7d060b2b198bb3177.jpg",
+    "static/media/fop.pdf": "/yewantrajkarki/static/media/fop.16f4b08b506b99b7c37b.pdf",
+    "static/media/gd.pdf": "/yewantrajkarki/static/media/gd.e6666512d564355cd505.pdf",
+    "static/media/cv.pdf": "/yewantrajkarki/static/media/cv.fdcc05e084f3517eb647.pdf",
+    "index.html": "/yewantrajkarki/index.html",
+    "main.7cf646ca.css.map": "/yewantrajkarki/static/css/main.7cf646ca.css.map",
+    "main.b1a97781.js.map": "/yewantrajkarki/static/js/main.b1a97781.js.map"
   },
   "entrypoints": [
     "static/css/main.7cf646ca.css",
-    "static/js/main.2573b52d.js"
+    "static/js/main.b1a97781.js"
   ]
 }
