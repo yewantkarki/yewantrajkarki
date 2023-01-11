@@ -10,7 +10,7 @@ const Certificate = () => {
     <>
     
     <section id='certificate'>
-    <Link to = "/"><button className='btn btn-primary'>Home</button></Link>
+    <Link to = "/yewantrajkarki"><button className='btn btn-primary'>Home</button></Link>
     <h5>Certificates</h5>
     <h2>My Certificates</h2>
 

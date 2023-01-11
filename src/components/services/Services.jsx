@@ -49,23 +49,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Shopping Cart / Online Ordering System / Online Payments.</p>
+              <p>Online Ordering System.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Learning Management System (LMS)</p>
+              <p>Learning Management System.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>User Interface (UI) Design</p>
+              <p>User Interface (UI) Design.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>User Experience (UX) Design</p>
+              <p>User Experience (UX) Design.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Booking / Reservations / Availability System</p>
+              <p>Booking / Reservations / Availability System.</p>
             </li>
           </ul>
         </article>
@@ -90,15 +90,15 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Website & Social Engagement Videos</p>
+              <p>Website & Social Engagement Videos.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Animated Explainer Videos</p>
+              <p>Animated Explainer Videos.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Animated Explainer Videos</p>
+              <p>Animated Explainer Videos.</p>
             </li>
           </ul>
         </article>
