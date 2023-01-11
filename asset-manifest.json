@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/yewantrajkarki/static/css/main.7cf646ca.css",
-    "main.js": "/yewantrajkarki/static/js/main.74e0b13b.js",
+    "main.css": "/yewantrajkarki/static/css/main.d9a52617.css",
+    "main.js": "/yewantrajkarki/static/js/main.55a3cf21.js",
     "static/media/me.png": "/yewantrajkarki/static/media/me.7a5ee6a2c308cff7a9a8.png",
     "static/media/me-about.jpg": "/yewantrajkarki/static/media/me-about.21f7d060b2b198bb3177.jpg",
     "static/media/fop.pdf": "/yewantrajkarki/static/media/fop.16f4b08b506b99b7c37b.pdf",
     "static/media/gd.pdf": "/yewantrajkarki/static/media/gd.e6666512d564355cd505.pdf",
     "static/media/cv.pdf": "/yewantrajkarki/static/media/cv.fdcc05e084f3517eb647.pdf",
     "index.html": "/yewantrajkarki/index.html",
-    "main.7cf646ca.css.map": "/yewantrajkarki/static/css/main.7cf646ca.css.map",
-    "main.74e0b13b.js.map": "/yewantrajkarki/static/js/main.74e0b13b.js.map"
+    "main.d9a52617.css.map": "/yewantrajkarki/static/css/main.d9a52617.css.map",
+    "main.55a3cf21.js.map": "/yewantrajkarki/static/js/main.55a3cf21.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cf646ca.css",
-    "static/js/main.74e0b13b.js"
+    "static/css/main.d9a52617.css",
+    "static/js/main.55a3cf21.js"
   ]
 }
